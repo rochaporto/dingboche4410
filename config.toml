@@ -1,0 +1,49 @@
+baseurl = "http://dingboche4410.com"
+title = "Dingboche 4410m"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = false
+disableKinds=["RSS"]
+
+[params]
+  description = '<!--[-->Dingboche is a small Sherpa village in the Khumbu Valley of Nepal, at 4410m.<br/>It all started here, on a brief afternoon ... followed by New Zealand, Switzerland<br/> and being continued in many other places...<!--]-->'
+  logo = "fa-diamond"
+  copyright = ""
+
+#[[params.social]]
+#  medium = "twitter"
+#  icon = "twitter"
+#  link = "#"
+#
+#[[params.social]]
+#  medium = "facebook"
+#  icon = "facebook"
+#  link = "#"
+#
+#[[params.social]]
+#  medium = "instagram"
+#  icon = "instagram"
+#  link = "#"
+#
+#[[params.social]]
+#  medium = "github"
+#  icon = "github"
+#  link = "#"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+
+[languages.de]
+languageName = "Deutsch"
+weight = 2
+title = "Dimension"
+description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br /><!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
+
+[languages.pt]
+languageName = "Português"
+weight = 3
+title = "Dimension"
+description = ''
