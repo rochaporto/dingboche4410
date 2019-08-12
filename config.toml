@@ -7,7 +7,7 @@ enableRobotsTXT = false
 disableKinds=["RSS"]
 
 [params]
-  description = '<!--[-->Dingboche is a small Sherpa village in the Khumbu Valley of Nepal, at 4410m.<br/>It all started here, on a brief afternoon ... followed by New Zealand, Switzerland<br/> and being continued in many other places...<!--]-->'
+  description = '<!--[-->Dingboche is a small Sherpa village in the Khumbu Valley of Nepal, at 4410m.<br/>It all started here, on a seemingly normal  afternoon ... followed by New Zealand, Switzerland<br/> and being continued in many other places...<!--]-->'
   logo = "fa-diamond"
   copyright = ""
 
@@ -19,11 +19,5 @@ weight = 1
 [languages.de]
 languageName = "Deutsch"
 weight = 2
-title = "Dimension"
-description = '<!--[-->german translation to be done<!--]-->'
-
-[languages.pt]
-languageName = "Português"
-weight = 3
-title = "Dimension"
-description = '<!--[-->to be done<!--]-->'
+title = "Dingboche 4410m"
+description = '<!--[-->Dingboche ist ein kleines Sherpa Dorf im Khumbutal in Nepal, auf 4410m. Alles hat hier begonnen,<br/>an einem scheinbar ganz normalen Nachmittag ... gefolgt von Neuseeland, der Schweiz und weiterhin vielen neuen Orten <!--]-->'

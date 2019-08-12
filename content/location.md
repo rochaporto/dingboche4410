@@ -1,7 +1,7 @@
 ---
 title: "Location"
 date: 2019-08-11T23:24:09+02:00
-weight: 90
+weight: 60
 ---
 
 <div align="center">
