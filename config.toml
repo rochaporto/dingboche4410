@@ -21,3 +21,10 @@ languageName = "Deutsch"
 weight = 2
 title = "Dingboche 4410m"
 description = '<!--[-->Dingboche ist ein kleines Sherpa Dorf im Khumbutal in Nepal, auf 4410m. Alles hat hier begonnen,<br/>an einem scheinbar ganz normalen Nachmittag ... gefolgt von Neuseeland, der Schweiz und weiterhin vielen neuen Orten <!--]-->'
+
+[languages.pt]
+languageName = "Português"
+weight = 3
+title = "Dingboche 4410m"
+description = '<!--[-->Dingboche é uma pequena vila Sherpa no vale do Khumbu do Nepal, a 4410 metros.<br/>Foi aqui que tudo começou, no que seria uma tarde normal ... seguindo-se a Nova Zelândia, Suiça<br/> e continuando em muitos outros lugares...<!--]-->'
+
