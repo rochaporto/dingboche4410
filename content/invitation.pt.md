@@ -7,6 +7,10 @@ weight: 50
 <div align="center">
 <a href="https://goo.gl/maps/NJpD4oL5SSTnwN6y8">Hotel Rural Quinta da Vista
 Alegre</a>
+<br/>
+<strong>Inicio 14:30</strong>
+<br/>
+Haverá uma pequena cerimónia, cocktail e jantar
 </div>
 <br/>
 {{% figure src="images/postcard01.jpg"
