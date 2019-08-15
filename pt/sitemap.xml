@@ -1,32 +1,123 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://dingboche4410.com/pt/#invitation</loc>
+    <loc>http://dingboche4410.com/pt/invitation/</loc>
     <lastmod>2019-08-12T21:22:01+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://dingboche4410.com/invitation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://dingboche4410.com/de/invitation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://dingboche4410.com/pt/invitation/"
+                />
   </url>
   
   <url>
-    <loc>http://dingboche4410.com/pt/#gifts</loc>
+    <loc>http://dingboche4410.com/pt/gifts/</loc>
     <lastmod>2019-08-12T22:36:55+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://dingboche4410.com/gifts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://dingboche4410.com/de/gifts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://dingboche4410.com/pt/gifts/"
+                />
   </url>
   
   <url>
-    <loc>http://dingboche4410.com/pt/#food</loc>
+    <loc>http://dingboche4410.com/pt/food/</loc>
     <lastmod>2019-08-12T21:20:30+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://dingboche4410.com/food/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://dingboche4410.com/de/food/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://dingboche4410.com/pt/food/"
+                />
   </url>
   
   <url>
-    <loc>http://dingboche4410.com/pt/#</loc>
+    <loc>http://dingboche4410.com/pt/</loc>
     <lastmod>2019-08-12T22:36:55+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://dingboche4410.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://dingboche4410.com/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://dingboche4410.com/pt/"
+                />
   </url>
   
   <url>
-    <loc>http://dingboche4410.com/pt/#</loc>
+    <loc>http://dingboche4410.com/pt/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://dingboche4410.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://dingboche4410.com/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://dingboche4410.com/pt/categories/"
+                />
   </url>
   
   <url>
-    <loc>http://dingboche4410.com/pt/#</loc>
+    <loc>http://dingboche4410.com/pt/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://dingboche4410.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://dingboche4410.com/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://dingboche4410.com/pt/tags/"
+                />
   </url>
   
 </urlset>
