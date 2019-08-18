@@ -8,7 +8,7 @@ weight: 50
 <a href="https://goo.gl/maps/NJpD4oL5SSTnwN6y8">Hotel Rural Quinta da Vista
 Alegre</a>
 <br/>
-<strong>Starting Time 14:30</strong>
+<strong>September 7, 2019 - Starting Time 14:30</strong>
 <br/>
 There will be a small ceremony, cocktail and dinner
 </div>
