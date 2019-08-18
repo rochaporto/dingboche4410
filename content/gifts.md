@@ -14,7 +14,17 @@ She will be supervised on this trip by her lovely parents, so we'll be 3 :)
 
 {{% figure src="images/nz.jpg"
       caption=""
-      class="caption"
-      width="100%"
+      class="align-center"
+      width="90%"
+%}}
+
+<br/>
+Lea has started her training program...
+
+{{% figure src="images/leahike.jpg"
+      caption=""
+      class="align-center"
+      width="90%"
+      align="center"
 %}}
 

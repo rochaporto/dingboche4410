@@ -10,7 +10,17 @@ Falls ihr uns ein Geschenk bereiten moechtet, wuerden wir uns ueber eine Finanzs
 
 {{% figure src="images/nz.jpg"
       caption=""
-      class="caption"
-      width="100%"
+      class="align-center"
+      width="90%"
+%}}
+
+<br/>
+Lea hat ihr Trainingsprogramm gestartet...
+
+{{% figure src="images/leahike.jpg"
+      caption=""
+      class="align-center"
+      width="90%"
+      align="center"
 %}}
 

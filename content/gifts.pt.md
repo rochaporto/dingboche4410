@@ -14,7 +14,17 @@ pequenina terá nesta viagem a supervisão dos pais, pelo que seremos 3 :)
 
 {{% figure src="images/nz.jpg"
       caption=""
-      class="caption"
-      width="100%"
+      class="align-center"
+      width="90%"
+%}}
+
+<br/>
+A Lea já começou o programa de treinos...
+
+{{% figure src="images/leahike.jpg"
+      caption=""
+      class="align-center"
+      width="90%"
+      align="center"
 %}}
 
